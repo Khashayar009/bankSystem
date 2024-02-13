@@ -20,19 +20,6 @@ This Python project implements a simple banking system with user registration, l
 ## Dependencies
 - Python 3.x
 
-## Project Files
-- **bank_system.py**
-```python
-# (Include the content of your Python script here)
-```
-
-- **users.json**
-```json
-[
-  // Example user data will be stored here after registration and transactions
-]
-```
-
 ## Notes
 - Ensure that the `users.json` file is present and has the correct format.
 - This project is a basic demonstration and does not include advanced security measures or error handling.
