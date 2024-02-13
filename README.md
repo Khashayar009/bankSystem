@@ -1,6 +1,5 @@
 # bankSystem
 this is just my college project
-# Bank System Python Project
 
 ## Overview
 This Python project implements a simple banking system with user registration, login, deposit, and withdrawal functionalities. User data is stored in a JSON file, allowing for persistent storage of user information and balances.
